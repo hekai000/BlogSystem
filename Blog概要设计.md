@@ -2,8 +2,8 @@
 
 # 运行环境
 
-1. ubuntu 16.04 LTS
-2. Python2.7.12
+1. ubuntu
+2. Python
 3. Apache
 4. Mysql
 5. Django
